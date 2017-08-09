@@ -10,11 +10,11 @@ iOS项目资料整理
 
 ## 深度学习
  
-[caffe](https://github.com/BVLC/caffe)  深度学习框架
+[caffe](https://github.com/BVLC/caffe)  深度学习框架  框架介绍:[Introduce](http://suanfazu.com/t/caffe/281)
    
 [models](https://github.com/Zhulmin/models)  已训练的TensorFlow模型   Models built with TensorFlow
    
-[Introduce](http://suanfazu.com/t/caffe/281)
+   
    
 使用C++架构, 支持命令行, Python
    
