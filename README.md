@@ -24,3 +24,7 @@ iOS项目资料整理
 深度学习框架比较:
 [DL4J与Torch、Theano、TensorFlow、Caffe、Paddle、MxNet、Keras 和 CNTK的比较](https://deeplearning4j.org/cn/compare-dl4j-torch7-pylearn)
 
+
+
+
+###go 语言和 python 的选择 ? ?
